@@ -1,0 +1,121 @@
+PODS:
+  - Alamofire (4.8.2)
+  - CRBoxInputView (1.1.2):
+    - Masonry
+  - EmptyDataSet-Swift (4.2.0)
+  - IQKeyboardManagerSwift (6.4.1)
+  - JXSegmentedView (0.0.19)
+  - Kingfisher (4.10.1)
+  - Masonry (1.1.0)
+  - MBProgressHUD (1.1.0)
+  - MJRefresh (3.2.0)
+  - Moya (13.0.1):
+    - Moya/Core (= 13.0.1)
+  - Moya/Core (13.0.1):
+    - Alamofire (~> 4.1)
+    - Result (~> 4.1)
+  - Result (4.1.0)
+  - RxCocoa (5.0.0):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxGesture (3.0.0):
+    - RxCocoa (~> 5.0)
+    - RxSwift (~> 5.0)
+  - RxRelay (5.0.0):
+    - RxSwift (~> 5)
+  - RxSwift (5.0.0)
+  - SKPhotoBrowser (6.1.0)
+  - SnapKit (4.2.0)
+  - SwifterSwift (5.0.0):
+    - SwifterSwift/AppKit (= 5.0.0)
+    - SwifterSwift/CoreGraphics (= 5.0.0)
+    - SwifterSwift/CoreLocation (= 5.0.0)
+    - SwifterSwift/Dispatch (= 5.0.0)
+    - SwifterSwift/Foundation (= 5.0.0)
+    - SwifterSwift/MapKit (= 5.0.0)
+    - SwifterSwift/SpriteKit (= 5.0.0)
+    - SwifterSwift/SwiftStdlib (= 5.0.0)
+    - SwifterSwift/UIKit (= 5.0.0)
+  - SwifterSwift/AppKit (5.0.0)
+  - SwifterSwift/CoreGraphics (5.0.0)
+  - SwifterSwift/CoreLocation (5.0.0)
+  - SwifterSwift/Dispatch (5.0.0)
+  - SwifterSwift/Foundation (5.0.0)
+  - SwifterSwift/MapKit (5.0.0)
+  - SwifterSwift/SpriteKit (5.0.0)
+  - SwifterSwift/SwiftStdlib (5.0.0)
+  - SwifterSwift/UIKit (5.0.0)
+  - SwiftyFitsize (1.0.0)
+  - SwiftyJSON (5.0.0)
+  - TZImagePickerController (3.2.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - CRBoxInputView
+  - EmptyDataSet-Swift
+  - IQKeyboardManagerSwift
+  - JXSegmentedView
+  - Kingfisher
+  - MBProgressHUD
+  - MJRefresh
+  - Moya
+  - RxCocoa
+  - RxGesture
+  - RxSwift
+  - SKPhotoBrowser
+  - SnapKit
+  - SwifterSwift
+  - SwiftyFitsize
+  - SwiftyJSON
+  - TZImagePickerController
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - CRBoxInputView
+    - EmptyDataSet-Swift
+    - IQKeyboardManagerSwift
+    - JXSegmentedView
+    - Kingfisher
+    - Masonry
+    - MBProgressHUD
+    - MJRefresh
+    - Moya
+    - Result
+    - RxCocoa
+    - RxGesture
+    - RxRelay
+    - RxSwift
+    - SKPhotoBrowser
+    - SnapKit
+    - SwifterSwift
+    - SwiftyFitsize
+    - SwiftyJSON
+    - TZImagePickerController
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  CRBoxInputView: d30722aae74237ee07fc8b79c6a9c22604acf8e6
+  EmptyDataSet-Swift: 1fa0b35f530a35f852ecb2b53564728b0c300aaf
+  IQKeyboardManagerSwift: d2df660d0b8d64a15cb2537c9ff303213fa515b2
+  JXSegmentedView: 6e22381bd1e6f0767fc078bef1947b13b2d337a1
+  Kingfisher: c148cd7b47ebde9989f6bc7c27dcaa79d81279a0
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MBProgressHUD: e7baa36a220447d8aeb12769bf0585582f3866d9
+  MJRefresh: ed450d6eb9d3346a2cb033ab7eb6de090aeef437
+  Moya: f4a4b80ff2f8a4ffc208dfb31cd91636622fee6e
+  Result: bd966fac789cc6c1563440b348ab2598cc24d5c7
+  RxCocoa: fcf32050ac00d801f34a7f71d5e8e7f23026dcd8
+  RxGesture: 0cd8e37ff9a266e1c31f46bcaed6de1c536bc81e
+  RxRelay: 4f7409406a51a55cd88483f21ed898c234d60f18
+  RxSwift: 8b0671caa829a763bbce7271095859121cbd895f
+  SKPhotoBrowser: 343de95d89dc7913763c5dda243cc6e606e4a168
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+  SwifterSwift: 96f90594b370802f01647c2b1229c74a84ffafee
+  SwiftyFitsize: 9d5cf70b800f3df97370d47a1dfa059518dbae17
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  TZImagePickerController: 44aa49cf35b1e88fe292be955e15b9003a5b1d83
+
+PODFILE CHECKSUM: f4a327f4a8b1a8c1be04d5b67d5daa078430c32a
+
+COCOAPODS: 1.6.0.beta.1

@@ -1,0 +1,32 @@
+platform :ios, '9.0'
+inhibit_all_warnings!
+#use_frameworks!
+
+target 'HMK' do
+    
+    pod 'Alamofire' #网络
+    pod 'Moya'
+    pod 'SnapKit' 
+    pod 'Kingfisher'   #图片加载
+    pod 'IQKeyboardManagerSwift'
+    pod 'SwiftyJSON'
+    
+    pod 'RxSwift' #rc
+    pod 'RxCocoa' #rc
+    pod 'RxGesture' #rc
+    
+    pod 'SwifterSwift' # 常用拓展
+    
+    pod 'EmptyDataSet-Swift' #  列表空数据图文展示
+    pod 'SwiftyFitsize' # 字体适配
+    pod 'SKPhotoBrowser' # 图片预览
+    pod 'JXSegmentedView' # 分类滚动
+    
+    # OC
+    
+    pod 'MBProgressHUD'
+    pod 'MJRefresh'
+    pod 'TZImagePickerController' # 相册获取图片或视频
+    
+    pod 'CRBoxInputView'  #验证码框
+end
